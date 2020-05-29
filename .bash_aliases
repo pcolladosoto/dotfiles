@@ -1,0 +1,6 @@
+alias x="exit"
+alias c="clear"
+alias sixad="sudo ~/.my_scripts/sixad -s"
+alias connect-vpn="sudo openfortivpn -c /home/pablo/.config/openfortivpn/UAH.conf"
+alias tron="armagetron-advanced"
+alias postman="~/.app_imgs/Postman/Postman"
